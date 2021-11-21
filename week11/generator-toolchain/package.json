@@ -1,0 +1,19 @@
+{
+  "name": "generator-toolchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generators/appp/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "lodash": "^4.17.21"
+  }
+}

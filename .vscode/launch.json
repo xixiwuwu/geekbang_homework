@@ -11,7 +11,12 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\week08\\jsx\\main.js"
+            "runtimeArgs": [
+                "--require", "@babel/register"
+            ],
+            "sourceMaps": true,
+            "args": [],
+            "program": "${workspaceFolder}\\week11\\html-parser\\node_modules\\.bin\\mocha"
         }
     ]
 }

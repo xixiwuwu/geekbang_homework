@@ -1,0 +1,22 @@
+{
+  "name": "generator-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generators/appp/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^10.0.0",
+    "css-loader": "^6.5.1",
+    "vue-loader": "^15.9.8",
+    "vue-style-loader": "^4.1.3",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.64.1"
+  }
+}
